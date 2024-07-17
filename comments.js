@@ -2,7 +2,7 @@
 //create a web server that listens on port 3000
 //create a route that accepts a POST request to /comments
 //parse the incoming form data and log it to the console
-//send a response to the client
+//send a response to the clients
 
 var http = require('http');
 var fs = require('fs');
