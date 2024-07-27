@@ -22,7 +22,7 @@ _GitHub Copilot can help you code by offering autocomplete-style suggestions rig
 
 ## Finish
 
-_Congratulations friend, you've completed this course!_
+_Congratulations friend, you've completed this course!!!_
 
 <img src="https://octodex.github.com/images/welcometocat.png" alt=celebrate width=300 align=right>
 
